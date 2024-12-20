@@ -7,15 +7,17 @@ Soy un estudiante de Ingeniería de Sistemas con experiencia práctica en desarr
 🔧 Habilidades técnicas:
 
 Frontend: HTML, CSS, JavaScript, React.
-Análisis de datos: Python (Pandas, NumPy), Tableau, SQL.
+BackEnd: Java, Spring Boot.
+Análisis de datos: Python, Tableau, SQL.
 Herramientas y metodologías: Git, Scrum.
+
 🌟 Proyectos destacados:
 
 Task Peak: Un administrador de tareas desarrollado con React y Spring Boot.
-Dashboard de Ventas: Visualizaciones interactivas de datos usando Tableau y Python.
 Food-Alfa: Sistema de gestión para restaurantes, integrando bases de datos eficientes.
+
 📫 Conecta conmigo:
 
-LinkedIn: [Tu enlace a LinkedIn]
-Portafolio: [Enlace a tu portafolio si tienes uno]
+LinkedIn: www.linkedin.com/in/brahian-rueda-gutierrez-383760172
+
 🚀 Explorando constantemente nuevas tecnologías y retos emocionantes!
