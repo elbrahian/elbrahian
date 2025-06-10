@@ -11,10 +11,21 @@ BackEnd: Java, Spring Boot.
 Análisis de datos: Python, Tableau, SQL.
 Herramientas y metodologías: Git, Scrum.
 
-🌟 Proyectos destacados:
+## 🌟 Proyectos destacados
 
-Task Peak: Un administrador de tareas desarrollado con React y Spring Boot.
-Food-Alfa: Sistema de gestión para restaurantes, integrando bases de datos eficientes.
+- 🔹 **Task Peak**  
+  Administrador de tareas desarrollado con **React** y **Spring Boot**.  
+  [🔗 Ver repositorio](https://github.com/elbrahian/Task-Peak)
+
+- 🔹 **Food-Alfa**  
+  Sistema de gestión para restaurantes, con base de datos eficiente y diseño intuitivo.  
+  [🔗 Ver repositorio](https://github.com/elbrahian/Food-Alfa)
+
+- 🔹 **Estadística 3 - Introducción al Machine Learning**  
+  Proyecto académico donde se aplicaron técnicas de *Machine Learning* supervisado y no supervisado, incluyendo modelos como **Gradient Boosting Machines (GBM)**, **Least Squares Models (LSM)** y **Redes Neuronales**.  
+  [🔗 Ver repositorio](https://github.com/elbrahian/Estadistica3.git) 
+
+---
 
 📫 Conecta conmigo:
 
