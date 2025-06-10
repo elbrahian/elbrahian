@@ -38,6 +38,7 @@ Herramientas y metodologías: Git, Scrum.
 🚀 Explorando constantemente nuevas tecnologías y retos emocionantes!
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elbrahian&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=elbrahian&theme=dracula&locale=es&short_numbers=true)](https://git.io/streak-stats)
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=elbrahian&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elbrahian&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
