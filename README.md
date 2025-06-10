@@ -12,6 +12,10 @@ Análisis de datos: Python, Tableau, SQL.
 Herramientas y metodologías: Git, Scrum.
 
 ## 🌟 Proyectos destacados
+- 🔹 **AsisteUCO**  
+  Plataforma web para la toma de asistencia académica, desarrollada con **Java 24**, arquitectura limpia y microservicios.  
+  Incluye integración con **Azure Key Vault**, **OAuth 2.0** con clasificación de roles, **JWT**, **Apache Message Catalog**, **PostgreSQL + Hibernate**, **SendGrid** para notificaciones, y un frontend moderno con **React + Vite**.  
+  [🔗 Ver repositorio](https://github.com/elbrahian/AsisteUCO)
 
 - 🔹 **Task Peak**  
   Administrador de tareas desarrollado con **React** y **Spring Boot**.  
@@ -29,7 +33,7 @@ Herramientas y metodologías: Git, Scrum.
 
 📫 Conecta conmigo:
 
-LinkedIn: www.linkedin.com/in/brahian-rueda-gutierrez-383760172
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/brahian-rueda-gutierrez-383760172)
 
 🚀 Explorando constantemente nuevas tecnologías y retos emocionantes!
 
